@@ -1,5 +1,5 @@
 ---
-name: weekly-client-report
+name: adventure-weekly-client-report
 description: Builds the weekly client status report in a consistent house format — wins first, numbers with context, risks last — and saves it as a polished document. Use when asked for a weekly report, client update, status report, or Friday recap.
 ---
 
@@ -39,7 +39,7 @@ This skill ships as a template. Make it yours:
 2. **Replace the [BRACKETED] placeholders** in this file: your key metrics, your variance threshold.
 3. **Name your sources.** Replace the generic "connected platforms" in step 2 with your real stack — "Google Ads + GA4 + Shopify," "HubSpot + Stripe," whatever you actually report from. Claude will reach for exactly those.
 4. **Add your voice.** If your reports open "Hi [First name] —" or always end with next week's plan, put that in `template.md`, not in your head.
-5. **Test it once, then refine.** Run `/weekly-client-report` on last week's real data and compare it to the report you actually sent. Tell Claude every difference — and have it update this skill so next Friday is automatic.
+5. **Test it once, then refine.** Run `/adventure-weekly-client-report` on last week's real data and compare it to the report you actually sent. Tell Claude every difference — and have it update this skill so next Friday is automatic.
 
 ## Power move
 

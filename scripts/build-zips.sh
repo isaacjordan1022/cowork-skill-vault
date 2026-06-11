@@ -3,7 +3,7 @@
 set -euo pipefail
 cd "$(dirname "$0")/.."
 mkdir -p zips
-for dir in meeting-prep weekly-client-report file-organizer fact-check inbox-triage; do
+for dir in adventure-meeting-prep adventure-weekly-client-report adventure-file-organizer adventure-fact-check adventure-inbox-triage; do
   rm -f "zips/${dir}.zip"
   zip -rq "zips/${dir}.zip" "$dir" -x "*.DS_Store"
   echo "built zips/${dir}.zip"

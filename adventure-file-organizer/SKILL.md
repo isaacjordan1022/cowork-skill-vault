@@ -1,5 +1,5 @@
 ---
-name: file-organizer
+name: adventure-file-organizer
 description: Cleans up a messy folder — renames files to a consistent convention, sorts them into a logical structure, and produces an index. Always proposes a plan before moving anything. Use when asked to organize files, clean up a folder, rename files, or sort documents.
 ---
 
@@ -35,7 +35,7 @@ This skill ships as a template. Make it yours:
 2. **Set your folder logic.** By client? By year? By document type? Edit the proposed tree in step 2 so Claude proposes your structure by default instead of guessing.
 3. **Define your junk.** Add your own archive rules: "anything with 'OLD' in the name," "all .psd files over 2 years old," etc.
 4. **Protect what's sacred.** Add a rule like: "Never touch anything inside /Contracts — flag only."
-5. **Test on a copy first.** Duplicate a messy folder, run `/file-organizer` on the copy, and check the result. Whatever you correct — tell Claude to fold it back into this skill.
+5. **Test on a copy first.** Duplicate a messy folder, run `/adventure-file-organizer` on the copy, and check the result. Whatever you correct — tell Claude to fold it back into this skill.
 
 ## Power move
 

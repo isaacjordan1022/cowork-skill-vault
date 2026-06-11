@@ -1,5 +1,5 @@
 ---
-name: meeting-prep
+name: adventure-meeting-prep
 description: Builds a one-page briefing for an upcoming meeting — who's attending, recent email history with each attendee, open items, and suggested talking points. Use when asked to prep for a meeting, brief me on a call, or get ready for a meeting with a person or company.
 ---
 
@@ -66,7 +66,7 @@ This skill ships as a template. Make it yours — edit this file (or just tell C
 2. **Match your tools.** If you live in Outlook + Salesforce instead of Gmail + HubSpot, swap the connector names in "What you need connected" and step 3.
 3. **Tune the brief to your role.** A salesperson wants deal stage and objections; an executive wants decisions needed and relationship temperature; an account manager wants deliverable status. Rewrite "SUGGESTED TALKING POINTS" and "WATCH FOR" to ask for what *you* scan for first.
 4. **Set your delivery.** Add a final step if you want the brief somewhere specific — "email it to me," "save it to the Meetings folder in Drive," or "post it in my Slack DMs."
-5. **Test it once, then refine.** Run `/meeting-prep` on a real meeting. Whatever you find yourself editing in the output — tell Claude to fold that change back into this skill.
+5. **Test it once, then refine.** Run `/adventure-meeting-prep` on a real meeting. Whatever you find yourself editing in the output — tell Claude to fold that change back into this skill.
 
 ## Power move
 

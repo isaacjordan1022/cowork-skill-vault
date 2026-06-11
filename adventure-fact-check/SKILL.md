@@ -1,5 +1,5 @@
 ---
-name: fact-check
+name: adventure-fact-check
 description: Adversarially reviews a document, analysis, or email before it goes out — verifies every number against its source, challenges weak claims, and reports what's wrong instead of agreeing. Use when asked to fact-check, check my numbers, red-team this, review before I send, or find what's wrong with this.
 ---
 
@@ -53,7 +53,7 @@ This skill ships as a template. Make it yours:
 2. **Set your stakes ladder.** Define what gets the strict treatment: "Anything going to a client or to [BOSS] = strictest. Internal drafts = flag majors only."
 3. **Add your known failure modes.** Every team has repeat offenders — "we always mess up timezone cutoffs on daily numbers," "watch for refunds counted as revenue." List yours; Claude will check them every time.
 4. **Tune the tone.** Want findings phrased gently for sharing with the team? Add: "Write findings so they can be pasted into a Slack message without embarrassing anyone."
-5. **Test it on a known-bad doc.** Take a report with a mistake you already caught once, run `/fact-check`, and see if it finds it. If it misses, tell Claude why — and have it update this skill.
+5. **Test it on a known-bad doc.** Take a report with a mistake you already caught once, run `/adventure-fact-check`, and see if it finds it. If it misses, tell Claude why — and have it update this skill.
 
 ## Power move
 

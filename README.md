@@ -6,11 +6,11 @@ A skill is a folder of instructions that teaches Claude *how* to do a task your 
 
 | Skill | What it does | Type |
 |---|---|---|
-| [`/meeting-prep`](./meeting-prep/SKILL.md) | One-page briefing before any meeting: who's in the room, email history, open items, talking points | Communications |
-| [`/inbox-triage`](./inbox-triage/SKILL.md) | Sorts the inbox, drafts replies for your review, files attachments, 5-line morning summary | Communications / Automation |
-| [`/weekly-client-report`](./weekly-client-report/SKILL.md) | The weekly status report in your house format — wins first, numbers with context, risks last | Reporting |
-| [`/fact-check`](./fact-check/SKILL.md) | Adversarial review before anything ships — verifies every number, challenges weak claims, refuses to be a yes-man | Analysis / Quality |
-| [`/file-organizer`](./file-organizer/SKILL.md) | Cleans a messy folder: consistent names, logical structure, full index — plan-first, never deletes | File management |
+| [`/adventure-meeting-prep`](./adventure-meeting-prep/SKILL.md) | One-page briefing before any meeting: who's in the room, email history, open items, talking points | Communications |
+| [`/adventure-inbox-triage`](./adventure-inbox-triage/SKILL.md) | Sorts the inbox, drafts replies for your review, files attachments, 5-line morning summary | Communications / Automation |
+| [`/adventure-weekly-client-report`](./adventure-weekly-client-report/SKILL.md) | The weekly status report in your house format — wins first, numbers with context, risks last | Reporting |
+| [`/adventure-fact-check`](./adventure-fact-check/SKILL.md) | Adversarial review before anything ships — verifies every number, challenges weak claims, refuses to be a yes-man | Analysis / Quality |
+| [`/adventure-file-organizer`](./adventure-file-organizer/SKILL.md) | Cleans a messy folder: consistent names, logical structure, full index — plan-first, never deletes | File management |
 
 ## Install a skill (60 seconds)
 

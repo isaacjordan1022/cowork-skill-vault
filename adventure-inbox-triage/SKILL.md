@@ -1,5 +1,5 @@
 ---
-name: inbox-triage
+name: adventure-inbox-triage
 description: Works through the inbox — categorizes new mail, drafts replies for review, files attachments, and produces a 5-line morning summary. Never sends anything without approval. Use when asked to triage my inbox, sort my email, draft replies, or catch me up on email.
 ---
 
